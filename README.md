@@ -13,6 +13,7 @@ An AI-driven, interactive system designed to analyze LinkedIn profiles, generate
 6. Chat-Based Interactive UI via Streamlit
 7. Session + Persistent Memory using LangGraph checkpointer
 8. Multi-Agent Architecture for modular and scalable functionality
+9. Groq-powered Chat System for ultra-fast LLM responses
 
 📁 Project Structure:
 
