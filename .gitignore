@@ -1,0 +1,15 @@
+# Critical: Sensitive API Keys and Session Data
+.env
+storage_state.json
+devanshi_profile.json
+
+# Python Artifacts
+__pycache__/
+*.pyc
+
+# Local Development/ChromaDB Cache
+.streamlit/
+.idea/
+venv/
+.venv/
+chroma_db/

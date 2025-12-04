@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+openai
+chromadb
+httpx
+playwright
+streamlit
+aiofiles
+jose
+python-multipart
+rich
