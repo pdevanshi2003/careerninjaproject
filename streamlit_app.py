@@ -3,7 +3,7 @@ import requests
 import os
 
 # NOTE: Using port 8001 as per your previous error resolution
-API_BASE = st.secrets.get('API_BASE', 'http://localhost:8005')
+API_BASE = st.secrets.get('API_BASE', 'https://careerninjaproject-2.onrender.com')
 
 # Set a fixed user ID for the demo session for persistent memory access
 CURRENT_USER_ID = 'devanshi' 
