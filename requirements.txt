@@ -11,3 +11,4 @@ aiofiles
 jose
 python-multipart
 rich
+apify-client
